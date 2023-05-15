@@ -230,8 +230,10 @@ header nav:not(:empty){
 
 header nav a {
     display: inline-block;
-    margin: 0;
-    margin-right: 2.5%;
+    margin-top: 0 2.5%;
+    margin-right: 0 2.5%;
+    margin-bottom: 0 2.5%;
+    margin-left: 0;
 }
 
 /* Social icons */

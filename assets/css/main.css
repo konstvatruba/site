@@ -775,3 +775,10 @@ article:not(:last-of-type) {
 .common-footer {
     border: none;
 }
+
+
+.header .navbar-nav .nav-link:hover {
+    background-image: initial;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}

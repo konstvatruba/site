@@ -43,10 +43,15 @@ favorite = true
 | ------------- |:-------------:| 
 | ![alt text](https://img2.teletype.in/files/53/8c/538cf3fa-a83a-4923-87ba-619d4e54fee1.jpeg "Logo Title Text 1")        | ![alt text](https://img4.teletype.in/files/f4/91/f4919a28-a298-4dcb-aabc-aa9466afe340.jpeg "Logo Title Text 1")            | 
 
+<p float="left">
+  <img src="https://img2.teletype.in/files/53/8c/538cf3fa-a83a-4923-87ba-619d4e54fee1.jpeg" width="50%" />
+  <img src="https://img4.teletype.in/files/f4/91/f4919a28-a298-4dcb-aabc-aa9466afe340.jpeg" width="50%" />
+</p>
+
+
 Твит:
 
-library(tweetrmd)
-tweet_embed("https://twitter.com/alferdez/status/991746568033394690?s=20")
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Te duele? Me encanta</p>&mdash; Alberto Fernández (@alferdez) <a href="https://twitter.com/alferdez/status/991746568033394690?ref_src=twsrc%5Etfw">May 2, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Видео: 

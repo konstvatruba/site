@@ -39,11 +39,15 @@ favorite = true
 
 Две картинки в ряд: 
 
+|        |           | 
+| ------------- |:-------------:| 
 | ![alt text](https://img2.teletype.in/files/53/8c/538cf3fa-a83a-4923-87ba-619d4e54fee1.jpeg "Logo Title Text 1")        | ![alt text](https://img4.teletype.in/files/f4/91/f4919a28-a298-4dcb-aabc-aa9466afe340.jpeg "Logo Title Text 1")            | 
 
 Твит:
 
-https://twitter.com/alferdez/status/991746568033394690?s=20
+library(tweetrmd)
+tweet_embed("https://twitter.com/alferdez/status/991746568033394690?s=20")
+
 
 Видео: 
 

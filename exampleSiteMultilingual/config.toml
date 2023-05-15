@@ -34,8 +34,8 @@ utterancesIssue = "" # optional
 utterancesLabel = "" # optional
   
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
+id = "twitter"
+url = "https://twitter.com/Konst_Vatruba/"
 
 [[params.social]]
 id = "github"

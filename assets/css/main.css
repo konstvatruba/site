@@ -221,7 +221,7 @@ header h2 {
 }
 
 header nav:not(:empty){
-    background: var(--nav-bg-color);
+    background: var(--bg-color);
     margin-top: 1em;
     max-width: 100%;
     text-align: center;

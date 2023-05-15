@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-defaultContentLanguage = "ru"
+defaultContentLanguage = "en"
 title = "Konst_Vatruba"
 theme = "anubis"
 paginate = 3
@@ -41,7 +41,7 @@ url = "https://twitter.com/Konst_Vatruba/"
 id = "github"
 url = "https://github.com/konstvatruba"
 
-[languages.ru]
+[languages.en]
 languageName = "Русский"
 
 [[menu.main]]

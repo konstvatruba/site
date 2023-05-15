@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Anubis"
+title = "Konst_Vatruba"
 theme = "anubis"
 paginate = 3
 
@@ -9,10 +9,10 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Konstantin Vatruba"
 
 [params]
-author = "Dmitry Kolosov"
+author = "Konstantin Vatruba"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
@@ -39,7 +39,7 @@ url = "https://gohugo.io/documentation/"
 
 [[params.social]]
 id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+url = "https://github.com/konstvatruba"
 
 [languages.en]
 languageName = "English"
@@ -62,29 +62,29 @@ identifier = "archive"
 url = "/posts/"
 weight = 3
 
-[languages.pl]
-languageName = "Polski"
+[languages.es]
+languageName = "Español"
 
-[[languages.pl.menu.main]]
+[[languages.es.menu.main]]
 identifier = "about"
-name = "O Hugo"
+name = "Sobre"
 url = "/about/"
 weight = 1
 
-[[languages.pl.menu.main]]
+[[languages.es.menu.main]]
 identifier = "tags"
-name = "Tagi"
+name = "Tags"
 url = "/tags/"
 weight = 2
 
-[[languages.pl.menu.main]]
+[[languages.es.menu.main]]
 identifier = "archive"
-name = "Archiwum"
+name = "Archivo"
 url = "/posts/"
 weight = 3
 
-[[languages.pl.params]]
-locale = "pl-pl"
+[[languages.es.params]]
+locale = "es-es"
 
 [taxonomies]
 category = "categories"

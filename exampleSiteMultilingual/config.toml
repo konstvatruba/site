@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 title = "Konst_Vatruba"
 theme = "anubis"
 paginate = 3
@@ -41,8 +41,8 @@ url = "https://gohugo.io/documentation/"
 id = "github"
 url = "https://github.com/konstvatruba"
 
-[languages.en]
-languageName = "English"
+[languages.ru]
+languageName = "Русский"
 
 [[menu.main]]
 identifier = "about"

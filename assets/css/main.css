@@ -231,6 +231,7 @@ header nav:not(:empty){
 header nav a {
     display: inline-block;
     margin: 0;
+    margin-right: 2.5%;
 }
 
 /* Social icons */

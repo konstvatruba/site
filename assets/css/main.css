@@ -225,7 +225,7 @@ header nav:not(:empty){
     margin-top: 1em;
     max-width: 100%;
     text-align: left;
-    padding: 0.5em 0;
+    padding: 0em 0;
 }
 
 header nav a {

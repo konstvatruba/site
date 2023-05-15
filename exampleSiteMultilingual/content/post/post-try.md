@@ -39,11 +39,12 @@ favorite = true
 
 Две картинки в ряд: 
 
-|        |           | 
-| ------------- |:-------------:| 
-| ![alt text](https://img2.teletype.in/files/53/8c/538cf3fa-a83a-4923-87ba-619d4e54fee1.jpeg "Logo Title Text 1")        | ![alt text](https://img4.teletype.in/files/f4/91/f4919a28-a298-4dcb-aabc-aa9466afe340.jpeg "Logo Title Text 1")            | 
-
 <p float="left">
+  <img src="https://img2.teletype.in/files/53/8c/538cf3fa-a83a-4923-87ba-619d4e54fee1.jpeg" width="50%" />
+  <img src="https://img4.teletype.in/files/f4/91/f4919a28-a298-4dcb-aabc-aa9466afe340.jpeg" width="50%" />
+</p>
+
+<p float="horizontal">
   <img src="https://img2.teletype.in/files/53/8c/538cf3fa-a83a-4923-87ba-619d4e54fee1.jpeg" width="50%" />
   <img src="https://img4.teletype.in/files/f4/91/f4919a28-a298-4dcb-aabc-aa9466afe340.jpeg" width="50%" />
 </p>

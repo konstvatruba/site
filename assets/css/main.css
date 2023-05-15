@@ -222,7 +222,7 @@ header h2 {
 
 header nav:not(:empty){
     background: var(--bg-color);
-    margin-top: 0em;
+    margin-top: 1em;
     max-width: 100%;
     text-align: left;
     padding: 0,5em 0;
@@ -230,7 +230,7 @@ header nav:not(:empty){
 
 header nav a {
     display: inline-block;
-    margin: 0 2.5%;
+    margin: 0 0%;
 }
 
 /* Social icons */
